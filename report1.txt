@@ -1,0 +1,37 @@
+
+                                                                  REPORT OF MY ASSIGNMENT
+
+	StudentID:1895889 
+	Name: Amardeep Kaur
+
+
+  Firts of all I created my GitHub repository with the name MAD314-CV--Recurssion. After that I used some commands in Gitbash to clone my repository with online GitHub 
+  acocunt.Here is the list of commands are used by me during my assignment.
+  
+
+  1)git clone:- this command is used to link with the git repository with the help of the URL. 
+  
+  For Example: 
+  
+  git clone https://github.com/Recurssion/MAD314-CV--Recurssion-.git.
+
+  $ git clone https://github.com/Recurssion/MAD314-CV--Recurssion-.git
+  Cloning into 'MAD314-CV--Recurssion-'...
+  remote: Enumerating objects: 21, done.
+  remote: Counting objects: 100% (21/21), done.
+  remote: Compressing objects: 100% (19/19), done.
+  remote: Total 21 (delta 4), reused 12 (delta 1), pack-reused 0
+  Unpacking objects: 100% (21/21), done.
+
+  2)mkdir <foldername>:- this command is used to make a new directory.
+  3)cd dir:- this command used for check or change a directory.
+  4)pwd:-I used this command for check the current folder.
+  5)ls:- this command is used to show the list of all system files.
+  6)git add -A:- this command is used to add a file in the existing directory.
+  7)git status:- the command git status is used to get the current status of the dirctory.
+  8)git commit -m "":- this command is used to commit the existing directory, in this command you can add a messgae also as a statement.
+  9)git push:- I used this command to push my file to the my created repository.
+
+
+
+
